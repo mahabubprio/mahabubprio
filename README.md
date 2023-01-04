@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahabubprio
 - 👀 I’m interested in Elixir, Ruby, Javascript
-- 🌱 I’m currently learning Elixir, Java
+- 🌱 I’m currently learning Elixir and How to Cook.
 - 💞️ I’m looking to collaborate on OpenSource
 - 📫 How to reach me mail me at: miprio101@gmail.com
 
